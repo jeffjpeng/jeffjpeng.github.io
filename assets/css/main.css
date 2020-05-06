@@ -2506,7 +2506,7 @@ input, select, textarea {
 
 		ul.actions li {
 			padding: 0 0 0 1em;
-			vertical-align: middle;
+			vertical-align: left;
 		}
 
 		ul.actions.special {
@@ -2631,6 +2631,10 @@ input, select, textarea {
 			}
 
 /* Section/Article */
+p.cents{
+	text-align: center;
+}
+
 
 	section.special, article.special {
 		text-align: center;
